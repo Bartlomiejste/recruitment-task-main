@@ -42,7 +42,7 @@ System do zarządzania danymi klientów, fakturami oraz płatnościami. Projekt 
 
 - Edytuj plik config/config.php, aby dostosować dane połączenia z bazą danych.
 - Uruchom skrypt inicjalizacyjny, aby stworzyć tabelę i wypełnić ją danymi:
-  - /recruitment-task-main/setup/setup_database.php
+  - php setup/setup_database.php
 
 **4. Uruchom lokalny serwer PHP.**
 
