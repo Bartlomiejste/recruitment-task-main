@@ -36,7 +36,7 @@ System do zarządzania danymi klientów, fakturami oraz płatnościami. Projekt 
 
 **2. Zainstaluj zależności przez Composer:**
 
-- install composer
+- composer install
   
 **3. Skonfiguruj bazę danych:**
 
